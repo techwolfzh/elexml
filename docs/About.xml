@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Administrator on 2017/9/28. -->
+<CTime>2017/9/28</CTime>
+<head>Device  description specification</head>
+
+<content>
+DDS 将会建立一种交互规范。通过定义硬件描述语言，描述硬件的特征和接口，为硬件之间的互联和沟通建立元数据信息。
+
+遵从本内容的硬件描述，可以应用在电子设备互联和组装中。
+
+本规范采用通用的定义方式，按照类别的情况划分设备。通过定义硬件属性和接口的描述，给出硬件的连接特征，以便程序和系统可以采集设备的信息。
+
+通过本规范，可以更有效的对设备、元器件进行连接。
+
+</content>
