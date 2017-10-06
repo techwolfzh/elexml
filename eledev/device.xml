@@ -9,3 +9,12 @@
 
     </SOURCE>
 </CAT>
+
+<INTERFACE>
+    <class>
+        <port>
+
+        </port>
+    </class>
+</INTERFACE>
+
